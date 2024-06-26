@@ -1,17 +1,17 @@
 # Big Data
 
 
-# 오라클 RAC 수업
+# 오라클 SQL 튜닝 수업 노트
 
 안녕하세요, 여러분!  🌟
 
-초보자도 쉽게 배울 수 있도록 오라클 RAC 수업 내용을 정리하였습니다.
+오라클 SQL 튜닝 수업 내용을 정리하였습니다.
 
-<img src="https://github.com/oracleyu01/rac_class/blob/main/001.png?raw=true" width="600" height="400">
+<img src="[https://github.com/oracleyu01/rac_class/blob/main/001.png?raw=true](https://github.com/boeun-pk/Big-Data/blob/main/001.png)" width="600" height="400">
 
 &nbsp;
 
-## 수업 자료( ☀️ 2024년 3월 23일 updated)
+## 수업 자료( ☀️ 2024년 6월 26일 updated)
 
 
 - **1. RAC 개념**:  📄[노트](https://github.com/oracleyu01/rac_class/blob/main/rac%EA%B0%9C%EB%85%90.md)
