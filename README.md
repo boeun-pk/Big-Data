@@ -7,7 +7,7 @@
 
 오라클 SQL 튜닝 수업 내용을 정리하였습니다.
 
-<img src="(https://github.com/boeun-pk/Big-Data/blob/main/001.png)" width="600" height="400">
+<img src="https://github.com/boeun-pk/Big-Data/blob/main/001.png" width="600" height="400">
 
 &nbsp;
 
